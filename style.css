@@ -1,0 +1,30 @@
+.error {
+    background-color: red;
+}
+
+.succss {
+    background-color: green;
+}
+
+.error, .succss {
+    color: white;
+    padding: 10px;
+    margin: 5px 0 5px 0;
+}
+
+
+.delete:hover {
+    cursor: pointer;
+    background-color: red;
+    color: white;
+
+}
+
+.delete {
+    padding : 5px;
+}
+
+#buttom-submit {
+    background-color: blueviolet;
+    color : black;
+}
